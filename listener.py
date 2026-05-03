@@ -1,4 +1,4 @@
-# listener.py — Nyro v3 Microphone Listener
+# listener.py — Nyro v4 Microphone Listener
 # -*- coding: utf-8 -*-
 import queue, threading
 import speech_recognition as sr
